@@ -1,6 +1,6 @@
 ![Banner](https://i.pinimg.com/1200x/db/63/50/db6350132efadde62085f252507bbf53.jpg)  
 ## 👤 About me 
-Welcome to my profile! I'm **Daniel**, a Junior Developer on my way to become a **FullStack Dev**!
+Welcome to my profile! I'm **Daniel**, a Junior Developer on my way to become a **Backend Developer**!
 - 🚀 Im a FOSS Enthusiast!
 - 📖 Learning **TS** and **DSS**!
 - 🍤 [Zen](https://github.com/zen-browser)
