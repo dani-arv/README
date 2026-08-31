@@ -1,5 +1,5 @@
 ![Banner](https://i.pinimg.com/1200x/db/63/50/db6350132efadde62085f252507bbf53.jpg)  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Development;CLI+Tools+%26+Systems;Continuous+Learning)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Backend+Development;Open+source+lover;Learning+new+stuff!)
 ## 👤 About me 
 Welcome to my profile! I'm **Daniel**, a Junior Developer on my way to become a **Backend Developer**!
 - 🚀 Im a FOSS Enthusiast!
